@@ -10,4 +10,9 @@ City- Bhubaneswar
 Name -Ujjawal Gupta
 City- Delhi
 
+Name - Manan Paneri
+City- Udaipur
+
+Name - *Raj Patel*, City - *Pune*
+
 
