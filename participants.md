@@ -10,7 +10,7 @@ City- Bhubaneswar
 Name -Ujjawal Gupta
 City- Delhi
 
-Name - Manan Paneri
+Name - Manan Paneri edit
 City- Udaipur
 
 
