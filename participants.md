@@ -27,3 +27,6 @@ City - Morena
 
 Name - Aaryan Budhiraja
 City - New Delhi
+
+Name - Yash Arora
+City - Renusagar
