@@ -5,7 +5,8 @@ Name- Prakhar Tiwari
 City- Agra
 
 Name -Sreeram Panigrahi email - sreeram.panigrahi1@swiggy.in
-City- Bhubaneswar, Odisha
+City- Bhubaneswar
+State- Odisha
 
 Name - Aayush Agarwal
 City - Kolkata
